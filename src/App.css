@@ -1,0 +1,54 @@
+
+
+
+#logo_col {
+    width: 400px;
+    height: 100px;
+    background: url("images/logo_white.svg") 60%/200px 100px no-repeat, linear-gradient(to right, #3575b8, #ff1632);
+}
+
+#brand {
+    padding: 0;
+}
+
+#nav_top {
+    background-color: #3575b8;
+    margin: 0;
+}
+
+#nav_bottom {
+    background-color: #ff1632;
+    margin: 0;
+}
+
+
+.icons {
+    width: 32px;
+    height: 32px;
+
+}
+
+#main_window {
+    margin-left: 72px;
+    margin-right: 75px;
+}
+
+#mb{
+    padding: 0;
+
+}
+
+#calendar_events {
+    height: 400px;
+    background-color: rgba(243, 244, 244, 0.5) ;
+}
+
+#content_window {
+
+    height: 800px;
+    background-color: rgba(243, 244, 244, 0.5) ;
+}
+
+.event_h2_txt{
+    padding-top: 15px;
+}

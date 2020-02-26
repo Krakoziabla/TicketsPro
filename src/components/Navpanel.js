@@ -8,6 +8,7 @@ class Navpanel extends React.Component {
 
             <Navbar id='mb' expand='lg'>
                 <Navbar.Brand id='brand' href='#'>
+                    <p></p>
                     <div id='logo_col'></div>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="main_navbar"/>

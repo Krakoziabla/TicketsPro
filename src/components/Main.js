@@ -1,4 +1,15 @@
-import {Navbar} from "react-bootstrap";
+import React from "react";
 
 
-// я учу реакт
+class Main extends React.Component {
+
+    render() {
+        return (
+            <div id={'test'} className={'col-md-12'}>
+            </div>
+        )
+    }
+}
+
+
+export default Main;

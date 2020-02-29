@@ -1,4 +1,5 @@
 import React from "react";
+import '../css/Terms.css'
 
 class Terms extends React.Component{
 

@@ -6,7 +6,6 @@ import CalendarMain from "./components/Calendar";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
 
-
 function App() {
     return (
         <div className="App">

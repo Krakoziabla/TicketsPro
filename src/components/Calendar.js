@@ -1,4 +1,4 @@
-import {React} from "react";
+import React from "react";
 import Calendar from 'react-calendar/dist/entry.nostyle';
 
 class CalendarMain extends React.Component {
